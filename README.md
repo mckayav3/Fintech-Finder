@@ -74,6 +74,7 @@ The images below are examples of what the Fintech Finder application will displa
 
 ![](./_images/.PNG)
 
+
 ---
 
 ## Contributors
