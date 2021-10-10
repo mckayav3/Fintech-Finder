@@ -1,4 +1,4 @@
-![](./_images/module_19_challenge_image.PNG)
+![](https://github.com/mckayav3/Module_19_Challenge/blob/main/_images/module_19_challenge_image.png)
 # Module_19_Challenge: Fintech Finder
 
 This application uses Stremlit to create Fintech Finder. This application lets customers find fintech professionals from a list of candidates, hire them, and pay them.
@@ -52,7 +52,7 @@ In gitbash after you have activated your dev environment, install the following:
     pip install bip44
 
 *Infura API
-![](./_images/infura_sign_up.PNG)
+![](https://github.com/mckayav3/Module_19_Challenge/blob/main/_images/infura_sign_up.png)
 
 ---
 
